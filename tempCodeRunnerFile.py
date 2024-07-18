@@ -1,0 +1,1 @@
+algo = cv2.bgsegm.createBackgroundSubtractorMOG()
